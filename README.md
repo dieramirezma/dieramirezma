@@ -28,7 +28,7 @@
 
 <div align="center">
   <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api?username=dieramirezma&show_icons=true&theme=aura&rank_icon=github"/>
-  <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dieramirezma&layout=donut&theme=aura">
+  <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dieramirezma&layout=donut&theme=aura&hide=less,asp.net">
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dieramirezma&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=dieramirezma&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
