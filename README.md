@@ -36,6 +36,6 @@
 <h2 align="center">🚀 Some Tools & Technologies I Use</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,next,tailwind,bootstrap,css,html,python,express,java,matlab,octave,npm,p5js,flask,git,github,nodejs,mysql,mongo,vite,latex,vscode,postman,idea&perline=9" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,next,nest,tailwind,bootstrap,css,html,python,express,java,matlab,octave,npm,p5js,flask,git,github,nodejs,mysql,mongo,vite,latex,vscode,postman,idea&perline=9" />
   </a>
 </p>
