@@ -1,7 +1,7 @@
 ![Header](./images/github-header-image.png)
 
 - 🔭 I’m currently **Studying Systems and Computer Engineering at the National University of Colombia**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Golang**
 - 💬 Ask me about **[Chess](https://lichess.org/@/diegoramirez1312), [React](https://react.dev/)**
 
 <h2 align="center">📫 How to reach me</h2>
